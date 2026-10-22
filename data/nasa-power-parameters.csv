@@ -1,0 +1,2 @@
+ID,Name,Tags,Services,Availability,Description,Alternates,Keywords,Warnings
+TS,Earth Skin Temperature,"official,nrt,meteorology","api,dav,gis,aws","hourly,daily,monthly,annual,climatology",The average temperature at the earth's surface.,"Land Surface Temperature,Skin Temperature,Radiometric Surface Temperature,Surface Radiative Temperature","Land Surface Temperature,Skin Temperature,Radiometric Surface Temperature,Surface Radiative Temperature,Temperature/Thermal IR Flux,Temperatures",
