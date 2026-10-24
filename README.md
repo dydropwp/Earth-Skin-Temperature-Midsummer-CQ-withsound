@@ -48,5 +48,3 @@ There is no hosted online demo at present. The MP4 demonstrates the generated cl
 
 - The data represents one NASA POWER grid point, not street-level measurements or all of Chongqing, and covers August 2026 only.
 - The pitch is a simple linear mapping of each day's temperature range to one octave; it is not calibrated to a musical or scientific sound scale.
-- Browser sound requires Web Audio support and a user click to start. The browser page must be served over HTTP so it can load the local CSV.
-- The browser clock is designed for pointer-based exploration; the Streamlit app provides the date-picker alternative.
